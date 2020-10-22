@@ -19,9 +19,9 @@ This project consists of two parts, HASS Effect and Up/Downmixing
 2) Run GUI.m
 3) Load the music clips from your local machine
 4) Informations about the uploaded music file are described in the window 
-5) You can one of the audio effects
-i) Downmixing the music clip from 6/4 to 2 channels.
-ii) Upmixing the music clip from 2 to 4 channels.
+5) You can one of the audio effects: 
+- Downmixing the music clip from 6/4 to 2 channels.
+- Upmixing the music clip from 2 to 4 channels.
 
 # Reference
 1. Haas Effect Tutorial: https://musicproductiontips.net/haas-effect-tutorial/
