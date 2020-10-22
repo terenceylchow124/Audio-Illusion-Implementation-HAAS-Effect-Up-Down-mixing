@@ -35,7 +35,7 @@ guidata(hObject, handles);
 
 c_size=get(handles.slider1,'Value');
 set(handles.Duration, 'String', strcat(num2str(c_size),'ms'));
-IMG=imread('image.jpg');
+IMG=imread('image2.jpg');
 axes(handles.axes1);
 imshow(mat2gray(abs(IMG)),'InitialMagnification','fit');
 
