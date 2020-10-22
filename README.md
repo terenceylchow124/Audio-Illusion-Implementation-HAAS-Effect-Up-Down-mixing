@@ -2,7 +2,7 @@
 This project consists of two parts, HASS Effect and Up/Downmixing 
 
 # HAAS Step 
-1) Go to ./HAAS
+1) Go to ./Haas
 2) Run GUI.m
 3) Load the music clips with only 2 channles from your local machine
 4) Informations about the uploaded music file are described in the window 
