@@ -2,7 +2,7 @@
 This project consists of two parts, HASS Effect and Up/Downmixing 
 
 ## HAAS
-<p class="aligncenter"><img src="https://github.com/terenceylchow124/Audio-Illusion-Implementation-HAAS-Effect-Up-Down-mixing/blob/main/Haas/preview_pj1.JPG" width="400" height="300"/></p> 
+<p class="aligncenter"><img src="https://github.com/terenceylchow124/Audio-Illusion-Implementation-HAAS-Effect-Up-Down-mixing/blob/main/Haas/preview_pj1.JPG" width="500" height="400"/></p> 
 
 ###  Step 
 1) Go to ./Haas
